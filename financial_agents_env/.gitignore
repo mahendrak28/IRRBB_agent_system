@@ -1,0 +1,55 @@
+# Python virtual environment - match the exact folder name
+financial_agents_env/
+
+# Additional venv patterns
+env/
+venv/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Environment variables
+.env
+
+# Build
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Byte-compiled
+*.pyc
+*.pyo
+
+# Packages
+*.egg
+*.egg-info
+dist
+build
+eggs
+parts
+bin
+var
+sdist
+develop-eggs
+.installed.cfg
+lib
+lib64
