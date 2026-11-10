@@ -1,0 +1,12 @@
+.env
+financial_agents_env/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.streamlit/
+*.log
+.DS_Store
+Thumbs.db
+~$*
